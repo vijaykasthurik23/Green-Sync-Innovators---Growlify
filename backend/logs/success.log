@@ -1,0 +1,175 @@
+[2026-03-03 18:25:40] [INFO]: [LOGIN] User logged in: s.akash02062005@gmail.com
+[2026-03-03 18:25:42] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a6cb786e912e407d557c0e
+[2026-03-03 18:25:42] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a6cb786e912e407d557c0e
+[2026-03-03 18:25:58] [INFO]: [ADD PLANT] New plant added for user 69a6cb786e912e407d557c0e: 69a6da5e6e912e407d557c1f
+[2026-03-03 18:25:58] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a6cb786e912e407d557c0e
+[2026-03-03 18:26:28] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-03-03 18:26:28] [INFO]: ✅ MongoDB connected successfully
+[2026-03-03 18:26:28] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-03-03 18:26:28] [INFO]: MongoDB connected successfully
+[2026-03-03 18:27:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-03-03 18:27:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 698ddadf4be6ef6763bf3a88
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "gtomoto" — userId: 698c4ac9b1de1167c549e8b4
+[2026-03-03 18:27:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 699c22ed85fbfb5e813c40a0
+[2026-03-03 18:27:07] [INFO]: ✅ Email sent successfully to s.akash02062005@gmail.com
+[2026-03-03 18:27:07] [INFO]: [EMAIL SENT] to s.akash02062005@gmail.com for tomoto
+[2026-03-03 18:30:00] [INFO]: [NODE-CRON] Running watering reminder at 18:30 (Outdoor)
+[2026-03-03 18:30:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Outdoor
+[2026-03-03 18:47:06] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 18:47:06] [INFO]: [OTP] Sent signup OTP to dinnynavis@gmail.com
+[2026-03-03 18:47:21] [INFO]: [SIGNUP] New user registered: dinnynavis@gmail.com
+[2026-03-03 18:47:29] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-03-03 18:47:31] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a6df61ce8a8279c29aacd8
+[2026-03-03 18:47:31] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a6df61ce8a8279c29aacd8
+[2026-03-03 18:48:58] [INFO]: [ADD PLANT] New plant added for user 69a6df61ce8a8279c29aacd8: 69a6dfc2ce8a8279c29aace0
+[2026-03-03 18:48:58] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a6df61ce8a8279c29aacd8
+[2026-03-03 18:49:19] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-03-03 18:49:20] [INFO]: ✅ MongoDB connected successfully
+[2026-03-03 18:49:20] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-03-03 18:49:20] [INFO]: MongoDB connected successfully
+[2026-03-03 18:50:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-03-03 18:50:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 698ddadf4be6ef6763bf3a88
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "gtomoto" — userId: 698c4ac9b1de1167c549e8b4
+[2026-03-03 18:50:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 699c22ed85fbfb5e813c40a0
+[2026-03-03 18:50:07] [INFO]: ✅ Email sent successfully to s.akash02062005@gmail.com
+[2026-03-03 18:50:07] [INFO]: [EMAIL SENT] to s.akash02062005@gmail.com for tomoto
+[2026-03-03 18:50:14] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 18:50:14] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-03-03 18:50:19] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 18:50:19] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-03-03 18:53:57] [INFO]: ✅ Quotation request submitted by dinnynavis@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-03-03 18:54:22] [INFO]: ✅ Admin login successful
+[2026-03-03 18:55:01] [INFO]: ✅ Quotation approved and PDF sent to dinnynavis@gmail.com
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:17] [WARN]: Auth failed: No token provided.
+[2026-03-03 18:55:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 18:55:39] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-03-03 18:59:19] [INFO]: Reward redemption request: Starter Succulent Seeds for dinnynavis@gmail.com (300 points)
+[2026-03-03 18:59:26] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 18:59:26] [INFO]: ✅ Reward redemption email sent to dinnynavis@gmail.com
+[2026-03-03 19:19:08] [WARN]: [AUTH] Invalid token: jwt expired
+[2026-03-03 19:19:08] [WARN]: [AUTH] Missing token in getPlants
+[2026-03-03 19:19:08] [WARN]: [AUTH] Invalid token: jwt expired
+[2026-03-03 19:19:08] [WARN]: [AUTH] Missing token in getPlants
+[2026-03-03 19:27:40] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a6df61ce8a8279c29aacd8
+[2026-03-03 19:27:40] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a6df61ce8a8279c29aacd8
+[2026-03-03 19:42:30] [INFO]: ✅ Email sent successfully to maniproveit@gmail.com
+[2026-03-03 19:42:30] [INFO]: [OTP] Sent signup OTP to maniproveit@gmail.com
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:29:38] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:29:38] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:16] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:16] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 22:54:46] [WARN]: Auth failed: No token provided.
+[2026-03-03 22:54:46] [ERROR]: ❌ Error: Not authorized, no token
+[2026-03-03 23:35:57] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 23:35:57] [INFO]: [OTP] Sent signup OTP to dinnynavis@gmail.com
+[2026-03-03 23:36:19] [INFO]: [SIGNUP] New user registered: dinnynavis@gmail.com
+[2026-03-03 23:36:27] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-03-03 23:36:29] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a7231bfe93bee0f1a95c29
+[2026-03-03 23:36:29] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69a7231bfe93bee0f1a95c29
+[2026-03-03 23:38:14] [INFO]: [ADD PLANT] New plant added for user 69a7231bfe93bee0f1a95c29: 69a7238efe93bee0f1a95c31
+[2026-03-03 23:38:14] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a7231bfe93bee0f1a95c29
+[2026-03-03 23:38:45] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-03-03 23:38:45] [INFO]: ✅ MongoDB connected successfully
+[2026-03-03 23:38:45] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-03-03 23:38:45] [INFO]: MongoDB connected successfully
+[2026-03-03 23:39:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-03-03 23:39:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 698ddadf4be6ef6763bf3a88
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "gtomoto" — userId: 698c4ac9b1de1167c549e8b4
+[2026-03-03 23:39:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 699c22ed85fbfb5e813c40a0
+[2026-03-03 23:39:08] [INFO]: ✅ Email sent successfully to s.akash02062005@gmail.com
+[2026-03-03 23:39:08] [INFO]: [EMAIL SENT] to s.akash02062005@gmail.com for tomoto
+[2026-03-03 23:39:08] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 69a6df61ce8a8279c29aacd8
+[2026-03-03 23:39:15] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 23:39:15] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-03-03 23:39:25] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 23:39:25] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-03-03 23:41:51] [INFO]: ✅ Quotation request submitted by dinnynavis@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-03-03 23:45:46] [INFO]: Reward redemption request: Starter Succulent Seeds for dinnynavis@gmail.com (300 points)
+[2026-03-03 23:45:52] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 23:45:52] [INFO]: ✅ Reward redemption email sent to dinnynavis@gmail.com
+[2026-03-03 23:46:09] [INFO]: ✅ Admin login successful
+[2026-03-03 23:46:44] [INFO]: ✅ Quotation approved and PDF sent to dinnynavis@gmail.com
+[2026-03-03 23:48:26] [INFO]: 📩 Contact email received from dinnynavis@gmail.com by Vijay kasthuri
+[2026-03-03 23:48:51] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-03-03 23:49:12] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a7231bfe93bee0f1a95c29
+[2026-03-03 23:49:12] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69a7231bfe93bee0f1a95c29
+[2026-03-03 23:49:34] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-03-03 23:49:34] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-03-04 00:00:00] [INFO]: [NODE-CRON] Running organic tip job at midnight
+[2026-03-04 00:00:00] [INFO]: [NODE-CRON] Updating organic tips
+[2026-03-04 00:35:20] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-03-04 00:35:20] [INFO]: ✅ MongoDB connected successfully
+[2026-03-04 00:35:20] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-03-04 00:35:20] [INFO]: MongoDB connected successfully

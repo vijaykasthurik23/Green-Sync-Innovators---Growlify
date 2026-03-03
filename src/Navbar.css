@@ -1,0 +1,63 @@
+.navbar-custom-bg {
+  /* Using your theme variables from App.js */
+  background-color: var(--card) !important; 
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--text-dark) !important;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-link {
+  font-weight: 600;
+  color: var(--text-light) !important;
+  margin: 0 0.5rem;
+  padding: 0.5rem 0.75rem !important;
+  border-radius: var(--radius);
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--text-dark) !important;
+  background-color: var(--muted);
+}
+
+/* Style for the active (current) page link */
+.nav-link.active {
+  color: var(--primary-foreground) !important;
+  background-color: var(--primary) !important;
+  box-shadow: 0 4px 8px rgba(143, 188, 143, 0.4);
+}
+
+.animation-toggle {
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 1.1rem;
+  border-width: 2px;
+}
+
+.animation-toggle .bi {
+  line-height: 0; /* Helps center the icon */
+}
+
+/* On mobile, expand the button */
+@media (max-width: 991.98px) {
+  .animation-toggle {
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius);
+  }
+}

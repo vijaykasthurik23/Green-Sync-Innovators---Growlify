@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Quotation</title>
+    <style>
+        body {
+            font-family: 'Helvetica', sans-serif;
+            color: #333;
+            padding: 40px;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #2e7d32;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2e7d32;
+        }
+        .title {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        .details-box {
+            background-color: #f9fdf9;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #e0e0e0;
+            margin-bottom: 30px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .label {
+            font-weight: bold;
+            color: #555;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+            margin-top: 50px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">🌿 Growlify Essentials</div>
+        <div class="title">Product Quotation Request</div>
+    </div>
+
+    <div class="details-box">
+        <h3>Customer Details</h3>
+        <p><span class="label">Name:</span> {{name}}</p>
+        <p><span class="label">Email:</span> {{email}}</p>
+        <p><span class="label">Phone:</span> {{phone}}</p>
+        <p><span class="label">Date:</span> {{date}}</p>
+    </div>
+
+    <div class="details-box">
+        <h3>Product Details</h3>
+        <p><span class="label">Product Name:</span> {{product.name}}</p>
+        <p><span class="label">Product ID:</span> {{product.id}}</p>
+        <p><span class="label">Type:</span> {{product.type}}</p>
+        <p><span class="label">Description:</span> {{product.details}}</p>
+    </div>
+
+    <div class="footer">
+        <p>This is an automated quotation request acknowledgment.</p>
+        <p>© {{year}} Growlify Essentials. All rights reserved.</p>
+    </div>
+</body>
+</html>
